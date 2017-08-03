@@ -1,0 +1,37 @@
+#set-height
+{
+    display: block;
+}
+
+#v0
+{
+  width: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+
+
+p
+{
+  font-family: helvetica;
+    font-size: 24px;
+}
+
+.somestyle
+{
+  text-align: center;
+  border: 1px solid silver;
+  padding: 30px;
+  box-shadow: 0px 0px 5px 7px silver
+
+}
+
+.somestyle h1~button
+{
+  padding: 15px;
+  font-family: monospace;
+  text-transform: capitalize;
+  font-size: 22px;
+  font-weight: bold;
+}
